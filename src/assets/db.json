@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Birinchi post",
+      "body": "Bu birinchi postning matni."
+    },
+    { "id": 2, "title": "Ikkinchi post", "body": "Bu ikkinchi postning matni." }
+  ]
+}
